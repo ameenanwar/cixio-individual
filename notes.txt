@@ -1,0 +1,2 @@
+this is a note for showing docker working
+updating the note
